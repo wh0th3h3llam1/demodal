@@ -47,5 +47,8 @@
       "#modal-backdrop": "remove",
       "body": "removeClass modal-open"
     }
+  },
+  "*.twitter.com *.twitter.com/*": {
+      "#layers": "remove"
   }
 }
